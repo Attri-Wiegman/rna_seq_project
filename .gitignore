@@ -1,0 +1,3 @@
+*.csv
+#this ignores all files with .csv
+results/
